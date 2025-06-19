@@ -1,0 +1,3 @@
+openai>=1.0.0
+tqdm
+# System dependency: ffmpeg must be installed and available in PATH 
